@@ -46,7 +46,7 @@ Financial institutions face challenges in accurately assessing credit risk. Subj
 ## 💻 Tech Stack
 | Category       | Tools/Libraries                                                                                     |
 |----------------|-----------------------------------------------------------------------------------------------------|
-| **Core**       | Python 3.9, Jupyter Notebook                                                                        |
+| **Core**       | Python 3.13, Jupyter Notebook                                                                        |
 | **Data**       | Pandas, NumPy, Scikit-Learn, Imbalanced-Learn (SMOTE)                                               |
 | **Modeling**   | XGBoost, Sklearn, Gradient Boosting, Logistic Regression, Random Forest, etc                        |
 | **Viz**        | Matplotlib, Seaborn, Power BI                                                                       |
