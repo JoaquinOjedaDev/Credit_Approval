@@ -94,13 +94,6 @@ Financial institutions face challenges in accurately assessing credit risk. Subj
 │   └── dashboard1.png                   # Snapshot 1
 │   └── dashboard2.png                   # Snapshot 2
 │
-├── 📂 datasets
-│   ├── application_record.csv           # Applicant profiles
-│   ├── credit_record.csv                # Credit history data
-│   ├── test.csv                         # Applicant profiles
-│   └── train.csv                        # Credit history data
-│
-│
 ├── 📂 metrics
 │   ├── confusion_matrix.png        
 │   ├── feature_importance.png      
